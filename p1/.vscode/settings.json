@@ -1,0 +1,12 @@
+{
+    "C_Cpp.default.compilerArgs": [
+        "-std=c++17"
+    ],
+    "files.associations": {
+        "README": "markdown",
+        "string_view": "cpp",
+        "valarray": "cpp",
+        "ostream": "cpp"
+    },
+    "python.pythonPath": "/usr/bin/python3"
+}
